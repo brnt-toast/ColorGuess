@@ -5,7 +5,7 @@ function Hero () {
     return (
         <div className='Hero 
             bg-slate-300 text-center'>
-                the great guessing game
+                <h1 className='text-5xl'>the great guessing game</h1>
         </div>
     )
 
